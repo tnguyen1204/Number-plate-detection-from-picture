@@ -27,4 +27,4 @@ on your PC.
 You have to put the picture in the folder and the change the name in the .py file. 
 
 ## Credit
-Credit to Nicholas Renotte wichi has been a lot of help !
+Credit to Nicholas Renotte witch has been a lot of help !
